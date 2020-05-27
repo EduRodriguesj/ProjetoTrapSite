@@ -1,0 +1,34 @@
+.titulo{
+    cursor: pointer;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+h6{
+    cursor: pointer;
+}
+  
+.imgPerfil {
+    background-color: #ddd;
+    border-radius: 100%;
+    height: 25%;
+    object-fit: cover;
+    width: 25%;
+    margin-left: 40%;
+    margin-top: 2%; 
+
+  }
+
+h1{
+    margin-left: 35%;
+
+}
+
+.Links{
+
+    border-radius: 7cm;
+
+}
+
